@@ -1,0 +1,13 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "react-hooks/rules-of-hooks": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "no-console": "off",
+    "no-unused-vars": "off",
+    "jsx-a11y/alt-text": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "no-useless-escape": "off"
+    // ... other rules you want to disable
+  }
+}
